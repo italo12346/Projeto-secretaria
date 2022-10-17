@@ -1,6 +1,3 @@
-# Projeto-secretaria
-Um projeto para secretaria de uma escola profissionalizante, onde o sistema vai trabalhar na parte de matricula e demais funcionalidades.
-
 <h1 align="center">Sumário</h1>
 
 - [Titulo e Banner](#titulo)
