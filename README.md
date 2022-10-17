@@ -14,7 +14,7 @@ Um projeto para secretaria de uma escola profissionalizante, onde o sistema vai 
 <!--AQUI COMEÇA O README-->
 <h1 align="center" id="titulo">Projeto secretária</h1>
 
-<img src="" width="1300px">
+<img src="https://github.com/Aldacelio/Projeto-secretaria/blob/master/src/Imagem/banner" width="1300px">
 
 <h1 align="center" id="badge">Badges</h1>
 
